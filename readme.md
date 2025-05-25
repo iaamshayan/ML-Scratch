@@ -53,14 +53,14 @@ ML-Scratch/
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/iaamshayan/ML-Scratch.git
    cd ML-Scratch
 ````
 
 2. Run any algorithm:
 
-   ```bash
+   ```
    cd LinearRegression
    python linear_regression.py
    ```
@@ -76,7 +76,7 @@ ML-Scratch/
 
 Install dependencies (if needed):
 
-```bash
+```
 pip install numpy
 ```
 
