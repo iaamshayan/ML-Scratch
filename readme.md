@@ -10,6 +10,7 @@ Welcome to **ML-Scratch** — a collection of essential Machine Learning algorit
 | Algorithm          | Folder               | Description                             |
 |-------------------|----------------------|-----------------------------------------|
 | 📈 Linear Regression | `LinearRegression/`   | Simple and multivariate regression models |
+| 📈 Gradient Descent | `Gradient Descent /`   | Scratach code for Batch,Stochastic and miniRegressor |
 | 📊 Logistic Regression | `LogisticRegression/` | Classification with sigmoid activation   |
 | 🌳 Decision Tree   | `DecisionTree/`      | Basic decision tree classifier           |
 | 🤖 K-Nearest Neighbors | `KNN/`               | Distance-based classification algorithm |
@@ -28,8 +29,10 @@ Welcome to **ML-Scratch** — a collection of essential Machine Learning algorit
 ML-Scratch/
 ├── LinearRegression/
 │   └── linear\_regression.py
-├── LogisticRegression/
-│   └── logistic\_regression.py
+├── Gradient Descent/
+│   ├── batch\_gradient\_descent.py
+│   ├── stochastic\_gradient\_descent.py
+│   └── mini\_batch\_gradient\_descent.py
 ├── DecisionTree/
 ├── KNN/
 ├── SVM/
