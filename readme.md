@@ -56,7 +56,7 @@ ML-Scratch/
    ```
    git clone https://github.com/iaamshayan/ML-Scratch.git
    cd ML-Scratch
-````
+   ````
 
 2. Run any algorithm:
 
