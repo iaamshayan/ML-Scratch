@@ -11,11 +11,7 @@ Welcome to **ML-Scratch** — a collection of essential Machine Learning algorit
 |-------------------|----------------------|-----------------------------------------|
 | 📈 Linear Regression | `LinearRegression/`   | Simple and multivariate regression models |
 | 📈 Gradient Descent | `Gradient Descent /`   | Scratach code for Batch,Stochastic and miniRegressor |
-| 📊 Logistic Regression | `LogisticRegression/` | Classification with sigmoid activation   |
-| 🌳 Decision Tree   | `DecisionTree/`      | Basic decision tree classifier           |
 | 🤖 K-Nearest Neighbors | `KNN/`               | Distance-based classification algorithm |
-| 🎯 SVM             | `SVM/`               | Support Vector Machine with margins     |
-| 🔁 K-Means         | `KMeans/`            | Clustering algorithm from scratch        |
 | 🧠 Neural Networks | `NeuralNetwork/`     | Feedforward NN using NumPy              |
 
 > 📌 Each algorithm is implemented using only **NumPy** and **pure Python** — no ML libraries like Scikit-learn!
@@ -33,10 +29,8 @@ ML-Scratch/
 │   ├── batch\_gradient\_descent.py
 │   ├── stochastic\_gradient\_descent.py
 │   └── mini\_batch\_gradient\_descent.py
-├── DecisionTree/
 ├── KNN/
-├── SVM/
-├── KMeans/
+│   └── knn.py
 ├── NeuralNetwork/
 └── README.md
 
@@ -95,12 +89,6 @@ Contributions are welcome! Feel free to:
 * Add visualization or tests
 
 > Fork it, make changes, and open a pull request!
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
