@@ -25,6 +25,7 @@ Welcome to **ML-Scratch** — a collection of essential Machine Learning algorit
 ML-Scratch/
 ├── LinearRegression/
 │   └── linear\_regression.py
+│   └── MultipleLR.py
 ├── Gradient Descent/
 │   ├── batch\_gradient\_descent.py
 │   ├── stochastic\_gradient\_descent.py
