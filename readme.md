@@ -76,6 +76,7 @@ Install dependencies (if needed):
 
 ```
 pip install numpy
+pip install pandas
 ```
 
 ---
